@@ -64,7 +64,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Free Pixel Army\Scripts\BoredButton.cs" />
+    <Compile Include="Assets\Free Pixel Army\Scripts\IdleButton.cs" />
+    <Compile Include="Assets\Free Pixel Army\Scripts\WalkButton.cs" />
+    <Compile Include="Assets\Free Pixel Army\Scripts\YawnButton.cs" />
     <Compile Include="Assets\SCRIPTS\Parallax.cs" />
+    <Compile Include="Assets\SCRIPTS\PlayerMovement.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.11f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
